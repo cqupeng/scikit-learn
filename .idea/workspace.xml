@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a59cecc-3b8f-43bf-b95c-b9c19fa6444e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scikit-learn" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="11bc8170-c3f5-41b2-a58c-9783329026d1" />
+  <component name="ProjectId" id="1UPr2OEgZJtwP54jMQVtT9wJWM4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a59cecc-3b8f-43bf-b95c-b9c19fa6444e" name="Default Changelist" comment="" />
+      <created>1575268863920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575268863920</updated>
+      <workItem from="1575268865023" duration="2953000" />
+      <workItem from="1575284528541" duration="2788000" />
+      <workItem from="1575289354027" duration="1271000" />
+      <workItem from="1575293155950" duration="1634000" />
+      <workItem from="1575352999213" duration="244000" />
+      <workItem from="1575353297975" duration="35000" />
+      <workItem from="1575353345731" duration="1632000" />
+      <workItem from="1575356125733" duration="1911000" />
+      <workItem from="1575358379439" duration="1357000" />
+      <workItem from="1575360848352" duration="1519000" />
+      <workItem from="1575382483173" duration="874000" />
+      <workItem from="1575385430528" duration="523000" />
+      <workItem from="1575386221670" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="241" key="#Notifications" timestamp="1575356929263">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="624" y="241" key="#Notifications/-1440.0.1440.900/0.0.2048.1152@0.0.2048.1152" timestamp="1575356929263" />
+    <state x="649" y="249" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575382684028">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="649" y="249" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/-1440.0.1440.900/0.0.2048.1152@0.0.2048.1152" timestamp="1575382684028" />
+    <state x="712" y="289" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575353303369">
+      <screen x="0" y="23" width="2048" height="1063" />
+    </state>
+    <state x="712" y="289" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1440.23.1440.877/0.23.2048.1063@0.23.2048.1063" timestamp="1575353303369" />
+    <state x="525" y="215" key="SettingsEditor" timestamp="1575385700285">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="525" y="215" key="SettingsEditor/-1440.0.1440.900/0.0.2048.1152@0.0.2048.1152" timestamp="1575385700285" />
+    <state x="525" y="215" key="SettingsEditor/-1440.23.1440.877/0.0.2048.1152@0.0.2048.1152" timestamp="1575356842487" />
+    <state x="525" y="221" key="SettingsEditor/-1440.23.1440.877/0.23.2048.1063@0.23.2048.1063" timestamp="1575358740723" />
+    <state x="766" y="427" key="cloudConfig.PluginsDialog" timestamp="1575360943347">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="766" y="427" key="cloudConfig.PluginsDialog/-1440.0.1440.900/0.0.2048.1152@0.0.2048.1152" timestamp="1575360943347" />
+    <state x="787" y="427" key="cloudConfig.SelfSettingsDialog" timestamp="1575357011009">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="787" y="427" key="cloudConfig.SelfSettingsDialog/-1440.0.1440.900/0.0.2048.1152@0.0.2048.1152" timestamp="1575357011009" />
+    <state x="689" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1575382498395">
+      <screen x="0" y="23" width="2048" height="1063" />
+    </state>
+    <state x="689" y="259" width="670" height="676" key="search.everywhere.popup/-1440.0.1440.900/0.0.2048.1152@0.0.2048.1152" timestamp="1575382490130" />
+    <state x="689" y="259" width="670" height="676" key="search.everywhere.popup/-1440.23.1440.877/0.23.2048.1063@0.23.2048.1063" timestamp="1575382498395" />
+  </component>
+</project>
